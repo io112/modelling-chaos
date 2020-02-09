@@ -1,2 +1,3 @@
 # modelling-chaos
-hh
+
+Modelling chaos with python
